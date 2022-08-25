@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at [https://shreyas-manolkar.com](https://shreyas-manolkar.com)
+- 👨‍💻 All of my projects are available at [https://shreyasmanolkar.com](https://shreyasmanolkar.com)
 
 - 💬 Ask me about **React, Node, Express, MongoDB, Postgress-SQL**
 
