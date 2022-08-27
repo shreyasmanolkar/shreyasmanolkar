@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shreyasmanolkar123@gmail.com**
 
-- 📄 Know about my experiences [https://shreyas-manolkar.netlify.app/assets/Resume.pdf](https://shreyas-manolkar.netlify.app/assets/Resume.pdf)
+- 📄 Know about my experiences [https://shreyasmanolkar.com/assets/Resume2.1.pdf](https://shreyasmanolkar.com/assets/Resume2.1.pdf)
 
 - ⚡ Fun fact **This sentence contains exactly threee erors.**
 
