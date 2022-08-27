@@ -4,9 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
-
-<p align="left"> <a href="https://twitter.com/shreyasmanolkar" target="blank"><img src="https://img.shields.io/twitter/follow/shreyasmanolkar?logo=twitter&style=for-the-badge" alt="shreyasmanolkar" /></a> </p>
-
 - 🌱 I’m currently learning **React native**
 
 - 👨‍💻 All of my projects are available at [https://shreyasmanolkar.com](https://shreyasmanolkar.com)
