@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shreyasmanolkar.com](https://shreyasmanolkar.com)
 
-- 💬 Ask me about **React.js, Node.js, Express, MongoDB, Postgresql**
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Postgresql**
 
 - 📫 How to reach me **shreyasmanolkar123@gmail.com**
 
