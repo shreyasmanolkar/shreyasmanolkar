@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://shreyasmanolkar.com/assets/Resume2.1.pdf](https://shreyasmanolkar.com/assets/Resume2.1.pdf)
 
-- ⚡ Fun fact **This sentence contains exactly threee erors.**
+- ⚡ Fun fact **Wearing headphones for just an hour could increase the bacteria in your ear by 700 times.🦠🦠**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
