@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://shreyasmanolkar.com/assets/Resume2.1.pdf](https://shreyasmanolkar.com/assets/Resume2.1.pdf)
 
-- ⚡ Fun fact Spiders are the only web developers who love finding bugs
+- ⚡ Fun fact:- Spiders are the only web developers who love finding bugs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
