@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyas Manolkar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> -->
 
 
 - 🌱 I’m currently learning **React native**
