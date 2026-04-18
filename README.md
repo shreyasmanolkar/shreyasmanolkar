@@ -3,11 +3,11 @@
 <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> -->
 
 
-- 🌱 I’m currently building <a href="https://conception.app" target="_blank" rel="noopener noreferrer">Conception</a> a purpose-built platform for organizing knowledge and curiosity.
+- 🌱 I’m currently building <a href="https://conception.app" target="_blank" rel="noopener noreferrer">Conception</a> a purpose-built platform for organizing knowledge and curiosity, fully bootstrapped.
 
-- 👨‍💻 We design and build custom software for eCommerce and SaaS at <a href="https://conception-labs.com" target="_blank" rel="noopener noreferrer">Conception-Labs</a>
+- 👨‍💻 To sustain this journey, I run <a href="https://conception-labs.com" target="_blank" rel="noopener noreferrer">Conception-Labs</a>, where we craft custom software solutions for ambitious eCommerce and SaaS businesses.
 
-- 💬 Let’s talk about product strategy, SaaS architecture, and shipping scalable software
+<!-- - 💬 Let’s talk about product strategy, SaaS architecture, and shipping scalable software -->
 
 - ⚡ Fun fact: When no one knows your product exists, it’s not failure - it’s “stealth mode”
 
