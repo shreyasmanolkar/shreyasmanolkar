@@ -9,7 +9,7 @@
 
 <!-- - 💬 Let’s talk about product strategy, SaaS architecture, and shipping scalable software -->
 
-- ⚡ Fun fact: When no one knows your product exists, it’s not failure - it’s “stealth mode”
+- ⚡ Fun fact: When no one knows your product exists, it’s not failure - it’s “stealth mode” 😉
 
 <h3 align="left">Connect with me:</h3>
 
