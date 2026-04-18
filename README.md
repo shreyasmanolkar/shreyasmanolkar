@@ -3,9 +3,9 @@
 <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> -->
 
 
-- 🌱 I’m currently building [Conception](https://conception.app) a purpose-built platform for organizing knowledge and curiosity.
+- 🌱 I’m currently building [Conception](https://conception.app){:target="_blank"} a purpose-built platform for organizing knowledge and curiosity.
 
-- 👨‍💻 We design and build custom software for eCommerce and SaaS at [conception-labs](https://conception-labs.com)
+- 👨‍💻 We design and build custom software for eCommerce and SaaS at [conception-labs](https://conception-labs.com){:target="_blank"}
 
 - 💬 Let’s talk about product strategy, SaaS architecture, and shipping scalable software
 
