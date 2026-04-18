@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> -->
 
 
-- 🌱 I’m currently building **Conception** a purpose-built platform for organizing knowledge and curiosity.
+- 🌱 I’m currently building **[Conception](https://conception.app)** a purpose-built platform for organizing knowledge and curiosity.
 
 - 👨‍💻 We design and build custom software for eCommerce and SaaS at [https://conception-labs.com](https://conception-labs.com)
 
