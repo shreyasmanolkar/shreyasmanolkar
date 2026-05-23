@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently building <a href="https://conception.app" target="_blank" rel="noopener noreferrer">Conception</a> a purpose-built platform for organizing knowledge and curiosity, fully bootstrapped.
 
-- 👨‍💻 To sustain this journey, I run <a href="https://conception-labs.com" target="_blank" rel="noopener noreferrer">Conception-Labs</a>, where we craft custom software solutions for ambitious eCommerce and SaaS businesses.
+- 👨‍💻 To sustain this journey, I run <a href="https://conception-labs.com" target="_blank" rel="noopener noreferrer">Conception-Labs</a>, where we identify, prioritize, and execute the highest-impact growth levers for SaaS businesses.
 
 <!-- - 💬 Let’s talk about product strategy, SaaS architecture, and shipping scalable software -->
 
